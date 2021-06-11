@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Dinithi Anuththara 😉
+### Hi there, 👋  I'm Dinithi Anuththara 😉
 
 
 - 👩‍🎓 I’m currently an undergraduate of NSBM Green University
