@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💻 I’m currently learning Web Applications Development
 
 <hr>
-<!--
+
 ### Languages and Tools:
 
 <p>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
--->
+
 
 <!--
 ![Dinithi's github stats](https://github-readme-stats.vercel.app/api?username=DinithiAnuththara123&layout=compact&langs_count=8&theme=light)
