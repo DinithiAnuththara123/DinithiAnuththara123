@@ -39,16 +39,15 @@ Here are some ideas to get you started:
 </p>
 
 
-<!--
+
 ![Dinithi's github stats](https://github-readme-stats.vercel.app/api?username=DinithiAnuththara123&layout=compact&langs_count=8&theme=light)
--->
+
  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinithiAnuththara123&layout=compact&langs_count=8&theme=light) 
 
 <br />
-
-  <!--
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DinithiAnuththara123" alt="DinithiAnuththara123" /></a> </p> 
 -->
   
