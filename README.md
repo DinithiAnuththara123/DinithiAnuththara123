@@ -1,6 +1,6 @@
 ### Hi there, 👋  I'm Dinithi Anuththara 😉
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DinithiAnuththara123&color=brightgreen" alt="DinithiAnuththara123" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DinithiAnuththara123&color=blue" alt="DinithiAnuththara123" /> </p> 
 
 <br>
 
