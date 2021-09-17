@@ -1,8 +1,8 @@
 ### Hi there, 👋  I'm Dinithi Anuththara 😉
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DinithiAnuththara123&color=brightgreen" alt="DinithiAnuththara123" /> </p> -->
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DinithiAnuththara123&color=brightgreen" alt="DinithiAnuththara123" /> </p> 
 
+<br>
 
 <!--
 **DinithiAnuththara123/DinithiAnuththara123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
